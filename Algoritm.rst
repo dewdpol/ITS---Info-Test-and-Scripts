@@ -18,7 +18,7 @@
 ::
  mount -o compress=zlib:N /dev/... /mount_point
  
- где N=1,2,...,9.
+где N=1,2,...,9.
 
 ===========
 **Lzo** 
