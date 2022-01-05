@@ -2,7 +2,7 @@
 
 Для SSD это может быть важно в связи с их ограниченным ресурсом на запись.
 
-Согласно `_wiki Btrfs <https://btrfs.wiki.kernel.org/index.php/Compression>`_ всего имеется 3 поддерживаемых алгоритма:
+Согласно `wiki Btrfs <https://btrfs.wiki.kernel.org/index.php/Compression>`_ всего имеется 3 поддерживаемых алгоритма:
 
 ===========
 **Zlib** 
