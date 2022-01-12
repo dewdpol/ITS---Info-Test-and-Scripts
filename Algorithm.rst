@@ -62,4 +62,4 @@
 
 ::
 
-sudo compsize /path
+sudo compsize */path
