@@ -5,6 +5,8 @@
 
 # Информация
 
+`https://github.com/dewdpol/Info-test-and-scripts/blob/main/Algoritm.rst`
+
 # Тесты
 
 # Скрипты
