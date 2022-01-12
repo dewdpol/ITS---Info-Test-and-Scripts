@@ -122,9 +122,10 @@
  | 117 | Void Bastards | zstd | 15 | 5,7 GB | 2,3 GB | 41% | 3,28 GB |
  | 118 | Wasteland 2: Director's Cut | zstd | 15 | 14 GB | 13 GB | 91% | 1.1 GB |
  | 119 | Wasteland 3 | zstd | 15 | 26 GB | 23 GB | 89% | 2,71 GB |
- | 120 | Wizard of Legend | zstd | 15 | 786 MB | 468 MB | 59% | 318 MB |
+ | 120 | Witch It | zsta | 15 | 4,2 GB | 4,1 GB | 97% | 95 MB |
+ | 121 | Wizard of Legend | zstd | 15 | 786 MB | 468 MB | 59% | 318 MB |
  |  | | | | | |  | |
- | `Итого` | | `zstd` | `15` | `738 GB` | `641 GB` | `86%` | `97 GB` |
+ | `Итого` | | `zstd` | `15` | `742 GB` | `645 GB` | `86%` | `97 GB` |
 
 
 Примечания:
