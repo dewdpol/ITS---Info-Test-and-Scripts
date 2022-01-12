@@ -60,4 +60,4 @@
 
 Для запуска программы необходимо ввести команду:
 ::
-sudo compsize */path
+ sudo compsize */path
