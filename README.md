@@ -13,4 +13,4 @@
 
 # Скрипты
 
-[Скрипт для обновление Archlinux](https://github.com/dewdpol/Info-test-and-scripts/blob/main/update-sys.sh)
+[Скрипт для обновления Archlinux](https://github.com/dewdpol/Info-test-and-scripts/blob/main/update-sys.sh)
