@@ -9,6 +9,8 @@
 
 # Тесты
 
-[ Список протестированных игр на возможность и эффективность сжатия](https://github.com/dewdpol/Info-test-and-scripts/blob/main/Games%20List.md)
+[Список протестированных игр на возможность и эффективность сжатия](https://github.com/dewdpol/Info-test-and-scripts/blob/main/Games%20List.md)
 
 # Скрипты
+
+[Скрипт для обновление Archlinux] (https://github.com/dewdpol/Info-test-and-scripts/blob/main/update-sys.sh)
