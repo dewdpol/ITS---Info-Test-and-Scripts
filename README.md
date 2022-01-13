@@ -7,7 +7,7 @@
 
 # Информация
 
-[Алгоритмы сжатия в файловой системе Btrfs](https://github.com/dewdpol/Info-test-and-scripts/blob/main/Algoritm.rst)
+[Алгоритмы сжатия в файловой системе Btrfs](https://github.com/dewdpol/ITS---Info-Test-and-Scripts/blob/main/Algorithm.rst)
 
 # Тесты
 
